@@ -11,7 +11,7 @@
 @implementation ModuleBLib
 // A dev
 + (void) sayHelloFromModuleB{
-    NSLog(@"Hello from module modified in the project!");
+    NSLog(@"Hello from module modified in the project!"); // feature 2
 }// a dev
 
 @end // last bug fix

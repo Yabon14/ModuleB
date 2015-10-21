@@ -14,7 +14,7 @@
     NSLog(@"Hello from module modified in the project!");
 }
 
-@end
+@end // last bug fix
 //
 
 
